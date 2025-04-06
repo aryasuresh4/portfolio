@@ -49,7 +49,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: url('/portfolio/images/971.jpg') center/cover no-repeat;
+    background: url('/images/bgimg.jpg') center/cover no-repeat;
     position: relative;
 }
 
@@ -352,7 +352,7 @@ header::before {
 
     .contact-section {
    
-    <style>     padding: 50px;
+        padding: 50px;
         background: #f9f9f9;
         border-radius: 12px;
         max-width: 1200px;
